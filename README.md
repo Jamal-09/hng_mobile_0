@@ -1,4 +1,4 @@
-# 🚀 HNG13 Mobile Stage 0 – Profile App
+# 🚀 Profile App
 
 A beautifully designed React Native app built with **Expo**, featuring a custom icon, adaptive splash screens for light and dark modes, and ready for production builds.
 
@@ -32,8 +32,8 @@ assets/
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/Jamal-09/hng_mobile_0.git
-   cd hng_mobile_0
+   git clone https://github.com/Jamal-09/Profile-App.git
+   cd ProwithoJaJamamamall-0
    ```
 
 2. Install dependencies
@@ -69,10 +69,8 @@ assets/
 - When the build is complete, you’ll get a .apk or .aab file for installation or store upload.
 
 ## 📬 Contact
-
 Connect with me:
 
 - 📧 Email: napg.adekunle@gmail.com
-- 🌈 Slack: Jamal-09
 
-### Built with 💻 & ❤️ by Jamal
+Built with 💻 & ❤️ by Jamal
